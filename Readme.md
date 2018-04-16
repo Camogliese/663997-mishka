@@ -1,7 +1,7 @@
 # Личный проект «Мишка» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Таня Родионова](https://up.htmlacademy.ru/adaptive/14/user/663997).
-* Наставник: `Неизвестно`.
+* Наставник: [Андрей Фидельман](https://htmlacademy.ru/profile/id773165).
 
 ---
 
